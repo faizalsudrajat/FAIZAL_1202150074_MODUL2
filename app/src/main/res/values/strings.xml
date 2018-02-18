@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FAIZAL_1202150074_MODUL2</string>
+    <string name="buttonDineIn">Dine In</string>
+    <string name="buttonTakeAway">Take Away</string>
+    <string name="NasgorA">Kamu Order Nasgor A</string>
+    <string name="NasgorB">Kamu Order Nasgor B</string>
+    <string name="NasgorC">Kamu Order Nasgor C</string>
+    <string name="NasgorD">Kamu Order Nasgor D</string>
+    <string name="dinein">Dine In</string>
+    <string name="takeaway">Take Away</string>
+</resources>
